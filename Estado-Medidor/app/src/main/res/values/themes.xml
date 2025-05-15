@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.cl.Ninoska.android.Servicios_Basicos" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
